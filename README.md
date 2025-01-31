@@ -1,6 +1,6 @@
 # Devansh Gupta
 
-**`(Machine learning\Cybersec\Development)`**
+**`(MachineLearning\CyberSecurity\Development)`**
 
 I'm a passion for machine learning, cybersecurity, and software development. I have led multiple cybersecurity events, developed AI-powered applications, and built security tools to make the digital world safer.
 
