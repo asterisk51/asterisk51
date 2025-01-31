@@ -14,7 +14,6 @@ I'm a passion for machine learning, cybersecurity, and software development. I h
 </p>
 </br>
 
----
 
 ### 🧰 Languages and Tools
 
