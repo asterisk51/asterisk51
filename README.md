@@ -2,7 +2,7 @@
 
 **`(MachineLearning\CyberSecurity\Development)`**
 
-I'm a passion for machine learning, cybersecurity, and software development. I have led multiple cybersecurity events, developed AI-powered applications, and built security tools to make the digital world safer.
+I am passionate about machine learning, cybersecurity, and software development. With experience leading multiple cybersecurity events, developing AI-powered applications, and building security tools, I strive to make the digital world safer.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/devansh-gupta51/" target="blank"><img align="center" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devansh-gupta51/" /></a>
