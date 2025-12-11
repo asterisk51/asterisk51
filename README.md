@@ -30,7 +30,3 @@ I am passionate about machine learning, cybersecurity, and software development.
 
 #
 
-### 📊 Stats
-
-![Devansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevanshGupta51&show_icons=true&theme=gruvbox)
-
